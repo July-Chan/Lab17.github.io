@@ -1,0 +1,17 @@
+D:\ООП\Lab17\Lab17\bin\Debug\net8.0-windows\Lab17.exe
+D:\ООП\Lab17\Lab17\bin\Debug\net8.0-windows\Lab17.deps.json
+D:\ООП\Lab17\Lab17\bin\Debug\net8.0-windows\Lab17.runtimeconfig.json
+D:\ООП\Lab17\Lab17\bin\Debug\net8.0-windows\Lab17.dll
+D:\ООП\Lab17\Lab17\bin\Debug\net8.0-windows\Lab17.pdb
+D:\ООП\Lab17\Lab17\obj\Debug\net8.0-windows\Lab17.Properties.Resources.resources
+D:\ООП\Lab17\Lab17\obj\Debug\net8.0-windows\Lab17.csproj.GenerateResource.cache
+D:\ООП\Lab17\Lab17\obj\Debug\net8.0-windows\Lab17.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Lab17\Lab17\obj\Debug\net8.0-windows\Lab17.AssemblyInfoInputs.cache
+D:\ООП\Lab17\Lab17\obj\Debug\net8.0-windows\Lab17.AssemblyInfo.cs
+D:\ООП\Lab17\Lab17\obj\Debug\net8.0-windows\Lab17.csproj.CoreCompileInputs.cache
+D:\ООП\Lab17\Lab17\obj\Debug\net8.0-windows\Lab17.dll
+D:\ООП\Lab17\Lab17\obj\Debug\net8.0-windows\refint\Lab17.dll
+D:\ООП\Lab17\Lab17\obj\Debug\net8.0-windows\Lab17.pdb
+D:\ООП\Lab17\Lab17\obj\Debug\net8.0-windows\Lab17.genruntimeconfig.cache
+D:\ООП\Lab17\Lab17\obj\Debug\net8.0-windows\ref\Lab17.dll
+D:\ООП\Lab17\Lab17\obj\Debug\net8.0-windows\Lab17.Form1.resources
